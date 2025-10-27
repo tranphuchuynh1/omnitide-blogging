@@ -59,7 +59,6 @@
   "devDependencies": {
     "autoprefixer": "^10.4.4",
     "babel-plugin-styled-components": "^2.0.6",
-    "gh-pages": "^6.3.0",
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.24"
   }
